@@ -9,6 +9,9 @@ Steps:
 2. Saving a trained model using pickle.
 3. Defining the app features in PenguinApp.py using streamlit
 4. For running the command in Conda: ``` streamlit run PenguinApp.py  ```
+5. Generating a permanent app interface link on Heroku: for that we need Procfile, setup.sh and requirements.txt files
+6. Generate requirements file with conda prompt command ``` pipreqs ``` in the project directory.
+7. Change app file name in Procfile and setup.sh remains same.
 
 
 
