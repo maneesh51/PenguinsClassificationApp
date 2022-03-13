@@ -78,8 +78,9 @@ else:
     st.write(df)
     
 ### Reading saved classification model
-Dir = 'D:/Work/Programming/Projects/streamlit/PenguinsClassificationApp'
-load_clf = pickle.load(open(os.path.join(Dir, 'Penguins_clf.pkl'), 'rb'))
+# Dir = 'D:/Work/Programming/Projects/streamlit/PenguinsClassificationApp'
+# load_clf = pickle.load(open(os.path.join(Dir, 'Penguins_clf.pkl'), 'rb'))
+load_clf = pickle.load(open('Penguins_clf.pkl', 'rb'))
 
 ### using this model to make predications
 prediction = load_clf.predict(df)
@@ -95,23 +96,4 @@ st.write(predication_proba)
     
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-
+   
