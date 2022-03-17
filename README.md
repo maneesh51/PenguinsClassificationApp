@@ -19,4 +19,4 @@ Steps:
 
 
 Links:
-1. Inspired from: https://www.youtube.com/watch?v=JwSS70SZdyM&ab_channel=freeCodeCamp.org
+Project inspired from: https://www.youtube.com/watch?v=JwSS70SZdyM&ab_channel=freeCodeCamp.org
