@@ -2,7 +2,7 @@
 
 
 Here is the app link: https://penguins-app-my2.herokuapp.com/
-![alt text](https://i.natgeofe.com/k/88de42b8-764c-40d2-89ee-e72d55dc95b8/emperor-penguin-chicks_4x3.jpg =200x200)
+<img src="https://i.natgeofe.com/k/88de42b8-764c-40d2-89ee-e72d55dc95b8/emperor-penguin-chicks_4x3.jpg" width="150" height="280">
 
 Steps:
 1. Using random forest classifier for classifying Penguin species based on various features like sex, beak length and body mass.
