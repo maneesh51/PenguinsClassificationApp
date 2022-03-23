@@ -17,9 +17,5 @@ Steps:
 7. Change app file name in Procfile and setup.sh remains same.
 
 
-
-
-
-
 Links:
 Project inspired from: https://www.youtube.com/watch?v=JwSS70SZdyM&ab_channel=freeCodeCamp.org
